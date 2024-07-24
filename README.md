@@ -2,11 +2,9 @@
 <h1>InstaScraper</h1>
 </p>
 
-Scrape useful information from instagram.
-**No login or password are required.**
-This is not an official API support and etc.
+Scrape useful information from Instagram. No login or password is required to use this tool, making it accessible and easy to operate without the need for personal credentials. However, it's important to note that this is not an official API provided or supported by Instagram, and it may not adhere to Instagram's terms of service or usage policies.
 <br/>
-<br/>This is just a scraper that is using instagram graph api to scrape media.
+<br/>This tool functions simply as a scraper, leveraging the Instagram Graph API to extract media content, such as photos and videos, along with other publicly available data from user profiles.
 
 ---
 ### Features
