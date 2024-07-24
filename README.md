@@ -177,7 +177,7 @@ const options = {
 ```
 
 ---
-### Result will contain a bunch of data**
+### Result will contain a bunch of data
 ```javascript
 instaTouch {
     collector:[ARRAY_OF_DATA]
