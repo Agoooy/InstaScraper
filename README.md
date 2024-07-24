@@ -16,9 +16,10 @@ Scrape useful information from Instagram. No login or password is required to us
 -   Download and save media to a ZIP archive
 -   Create JSON/CSV files with a post information
 
-**Possible errors from instagram API**
+### Possible errors from instagram API
 -   Rate Limit - Instagram API temporarily blocked your IP, you can wait a little, try to use a proxy or set the higher {timeout}
 
+---
 ### Installation
 **InstaScraper** requires [Node.js](https://nodejs.org/) v8.6.0+ to run.
 
@@ -34,9 +35,10 @@ $ npm i -g instatouch
 $ yarn global add instatouch
 ```
 
-## USAGE
+---
+### USAGE
 
-### In Terminal
+#### In Terminal
 
 ```sh
 $ instatouch --help
@@ -93,7 +95,7 @@ Options:
   --help               Show help                                       [boolean]
 ```
 ---
-### Output File Example
+#### Output File Example
 ![Demo](https://i.imgur.com/D9sH95B.png)
 
 ---
