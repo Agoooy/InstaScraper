@@ -188,6 +188,7 @@ instaTouch {
 }
 ```
 
+---
 ### Json Output Example
 - #### Feed
 Example output for the methods: **user, hashtag, location**
