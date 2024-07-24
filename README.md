@@ -270,5 +270,5 @@ You can reach me through My Gmail, LinkedIn, or Instagram account
 <div align="center">
 
 ![MadeWithLove](https://forthebadge.com/images/badges/made-with-love__.svg)
-![forthebadge](https://forthebadge.com/images/badges/made-in-python.svg)
+![forthebadge](https://forthebadge.com/images/badges/made-with-typescript.svg)
 </div>
