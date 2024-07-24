@@ -253,7 +253,7 @@ Example output for the methods: **likers**
 ```
 
 ---
-## Connect with me
+### Connect with me
 You can reach me through My Gmail, LinkedIn, or Instagram account
   
  <a
