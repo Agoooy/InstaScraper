@@ -94,7 +94,7 @@ Options:
                                                                    [default: ""]
   --help               Show help                                       [boolean]
 ```
----
+
 #### Output File Example
 ![Demo](https://i.imgur.com/D9sH95B.png)
 
